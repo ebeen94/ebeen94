@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-### 🔭 I am interested in using computers to analyze social phenomena! 
+### I am interested in using computers to analyze social phenomena! 
