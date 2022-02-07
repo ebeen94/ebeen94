@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-🔭 I’m interested in computational approaches to the social sciences
+🔭 I am interested in using computers to analyze social phenomena! 
