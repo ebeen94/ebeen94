@@ -1,2 +1,2 @@
 ### Hi there 👋
-### I am interested in analyzing data!
+### I am a data analyst!
